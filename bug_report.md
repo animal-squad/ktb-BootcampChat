@@ -37,3 +37,15 @@ https://github.com/user-attachments/assets/1225ba4d-c6e1-4b63-a164-7c76b9f102b1
 
 #### [Issue](https://github.com/animal-squad/contest-fe/issues/1)<br/>
 #### [PR](https://github.com/animal-squad/contest-fe/pull/2)
+
+---
+
+### Bug #3 : 채팅방 height 높이가 되돌아오지 않는 버그
+#### 채팅방 내부에서 2줄 이상의 입력을 전송한 뒤에 다음 입력이 들어오기 전까지 채팅방의 높이가 되돌아오지 않는 버그가 있습니다.
+##### 버그 영상<br/>
+https://github.com/user-attachments/assets/491d9e62-897d-478b-bdb8-a31e3363c818
+##### 수정 영상<br/>
+https://github.com/user-attachments/assets/532d1535-ec50-4ed2-948e-989fc5b06098
+
+#### [Issue](https://github.com/animal-squad/contest-fe/issues/6)<br/>
+#### [PR](https://github.com/animal-squad/contest-fe/pull/7)
