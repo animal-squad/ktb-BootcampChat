@@ -18,7 +18,7 @@ AWS 부하테스트 대회 진행 간 발생한 버그 및 해결 과정 등을 
 #### 'kakao tech bootcamp AI chat' 로고 텍스트 및 로고 이미지가 드래그되는 버그가 있습니다.
 https://github.com/user-attachments/assets/dbc9fa03-e044-4b8c-83d1-7b79607cee9d
 #### [Issue](https://github.com/animal-squad/contest-fe/issues/4)<br/>
-#### [PR](https://github.com/animal-squad/contest-fe/issues/4)
+#### [PR](https://github.com/animal-squad/contest-fe/pull/5)
 
 ---
 
