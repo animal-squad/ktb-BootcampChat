@@ -23,8 +23,8 @@ https://github.com/user-attachments/assets/349b53a6-1a3f-4c19-a7cf-e673a3a7df9e
 ##### 수정 영상<br/>
 https://github.com/user-attachments/assets/b99255aa-6b5b-441a-ac33-bfa39ebbf909
 
-#### [Issue](https://github.com/animal-squad/contest-fe/issues/4)<br/>
-#### [PR](https://github.com/animal-squad/contest-fe/pull/5)
+#### [Issue](https://github.com/animal-squad/contest-fe/issues/1)<br/>
+#### [PR](https://github.com/animal-squad/contest-fe/pull/2)
 
 ---
 
@@ -35,8 +35,8 @@ https://github.com/user-attachments/assets/8f79ddc2-701c-4c96-9074-9ea109185694
 ##### 수정 영상<br/>
 https://github.com/user-attachments/assets/1225ba4d-c6e1-4b63-a164-7c76b9f102b1
 
-#### [Issue](https://github.com/animal-squad/contest-fe/issues/1)<br/>
-#### [PR](https://github.com/animal-squad/contest-fe/pull/2)
+#### [Issue](https://github.com/animal-squad/contest-fe/issues/4)<br/>
+#### [PR](https://github.com/animal-squad/contest-fe/pull/5)
 
 ---
 
