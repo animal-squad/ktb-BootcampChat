@@ -16,12 +16,13 @@ AWS 부하테스트 대회 진행 간 발생한 버그 및 해결 과정 등을 
 ** 사진 또는 영상을 .md에 추가하시려면, Issue에 올리신 뒤 이름이 변한 상태의 파일을 복사 + .md에 붙여넣기 하시면 됩니다!
 -->
 
-### Bug #1 : Logo 이미지가 드래그되는 버그
-#### 'kakao tech bootcamp AI chat' 로고 텍스트 및 로고 이미지가 드래그되는 버그가 있습니다.
+### Bug #1 : 한국어 끝자가 2번 입력 되는 버그
+#### 한국어를 직접 입력 후 전송하면 가장 끝 문자가 2번 전송되는 버그가 있습니다.
 ##### 버그 영상<br/>
-https://github.com/user-attachments/assets/8f79ddc2-701c-4c96-9074-9ea109185694
+https://github.com/user-attachments/assets/349b53a6-1a3f-4c19-a7cf-e673a3a7df9e
 ##### 수정 영상<br/>
-https://github.com/user-attachments/assets/1225ba4d-c6e1-4b63-a164-7c76b9f102b1
+https://github.com/user-attachments/assets/b99255aa-6b5b-441a-ac33-bfa39ebbf909
+
 #### [Issue](https://github.com/animal-squad/contest-fe/issues/4)<br/>
 #### [PR](https://github.com/animal-squad/contest-fe/pull/5)
 
@@ -29,6 +30,10 @@ https://github.com/user-attachments/assets/1225ba4d-c6e1-4b63-a164-7c76b9f102b1
 
 ### Bug #2 : Logo 이미지가 드래그되는 버그
 #### 'kakao tech bootcamp AI chat' 로고 텍스트 및 로고 이미지가 드래그되는 버그가 있습니다.
-<img width="1512" alt="스크린샷 2024-12-11 오후 1 31 07" src="https://github.com/user-attachments/assets/4186abc5-5edd-4738-ad5f-0c32f08e5e37"><br/>
-#### [Issue](https://github.com/animal-squad/contest-fe/issues/4)<br/>
-#### [PR](https://github.com/animal-squad/contest-fe/issues/4)
+##### 버그 영상<br/>
+https://github.com/user-attachments/assets/8f79ddc2-701c-4c96-9074-9ea109185694
+##### 수정 영상<br/>
+https://github.com/user-attachments/assets/1225ba4d-c6e1-4b63-a164-7c76b9f102b1
+
+#### [Issue](https://github.com/animal-squad/contest-fe/issues/1)<br/>
+#### [PR](https://github.com/animal-squad/contest-fe/pull/2)
