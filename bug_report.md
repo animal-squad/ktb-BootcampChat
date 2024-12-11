@@ -12,11 +12,16 @@ AWS 부하테스트 대회 진행 간 발생한 버그 및 해결 과정 등을 
 [사진]
 #### [Issue](https://github.com/animal-squad/contest-fe/issues/4)
 #### [PR](https://github.com/animal-squad/contest-fe/issues/4)
+
+** 사진 또는 영상을 .md에 추가하시려면, Issue에 올리신 뒤 이름이 변한 상태의 파일을 복사 + .md에 붙여넣기 하시면 됩니다!
 -->
 
 ### Bug #1 : Logo 이미지가 드래그되는 버그
 #### 'kakao tech bootcamp AI chat' 로고 텍스트 및 로고 이미지가 드래그되는 버그가 있습니다.
+##### 버그 영상<br/>
 https://github.com/user-attachments/assets/dbc9fa03-e044-4b8c-83d1-7b79607cee9d
+##### 수정 영상<br/>
+https://github.com/user-attachments/assets/1b99b585-b503-465d-9091-9ebe7c48a863
 #### [Issue](https://github.com/animal-squad/contest-fe/issues/4)<br/>
 #### [PR](https://github.com/animal-squad/contest-fe/pull/5)
 
