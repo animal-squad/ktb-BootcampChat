@@ -49,3 +49,16 @@ https://github.com/user-attachments/assets/532d1535-ec50-4ed2-948e-989fc5b06098
 
 #### [Issue](https://github.com/animal-squad/contest-fe/issues/6)<br/>
 #### [PR](https://github.com/animal-squad/contest-fe/pull/7)
+
+---
+
+### Bug #4 : 채팅방 읽음 표시 카운트 버그
+#### 채팅방에서 채팅을 쳤을 경우에, 자신이 보낸 메시지를 읽음처리 하지 못하는 버그가 있습니다.
+##### 버그 영상<br/>
+https://github.com/user-attachments/assets/804f264a-5f0c-4994-aae5-ef65a67ac09a
+##### 수정 영상<br/>
+https://github.com/user-attachments/assets/532d1535-ec50-4ed2-948e-989fc5b06098
+
+#### [Issue](https://github.com/animal-squad/contest-fe/issues/8)<br/>
+#### [PR](https://github.com/animal-squad/contest-fe/pull/7)
+
