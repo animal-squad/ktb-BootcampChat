@@ -57,8 +57,8 @@ https://github.com/user-attachments/assets/532d1535-ec50-4ed2-948e-989fc5b06098
 ##### 버그 영상<br/>
 https://github.com/user-attachments/assets/804f264a-5f0c-4994-aae5-ef65a67ac09a
 ##### 수정 영상<br/>
-https://github.com/user-attachments/assets/532d1535-ec50-4ed2-948e-989fc5b06098
+https://github.com/user-attachments/assets/6f33e477-d38c-4d5e-8b62-ee8d2fa70ae8
 
 #### [Issue](https://github.com/animal-squad/contest-fe/issues/8)<br/>
-#### [PR](https://github.com/animal-squad/contest-fe/pull/7)
+#### [PR](https://github.com/animal-squad/contest-fe/pull/9)
 
